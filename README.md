@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @therealjake14
-- 👀 I’m interested in Cloud Operation
+- 👀 I’m a Cloud Operation Engineer
 - 🌱 I’m currently learning AWS, Azure, GCP...
-- 💞️ I’m looking to collaborate on ...
 
 <!---
 therealjake14/therealjake14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
